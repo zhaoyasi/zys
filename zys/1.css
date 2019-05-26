@@ -1,0 +1,231 @@
+html {
+    font-size: 100px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.mainBox .page1 {
+    background: url(image/13.jpg)no-repeat;
+    width: 100%;
+    height: 100%;
+
+    background-size: 7.5rem 13.5rem;
+}
+
+.mainBox .page1 .box1 {
+    text-align: center;
+    font-size: 2rem;
+    color: hotpink;
+    position: absolute;
+    top: 3rem;
+    left: .95rem;
+}
+
+.mainBox .page2 {
+    background: url(image/2.png)no-repeat;
+    background-size: 7.5rem 13.5rem;
+
+}
+
+.mainBox .page2 .box2 {
+    text-align: left;
+    font-size: .55rem;
+    color: darkgreen;
+    font-style: italic;
+    position: absolute;
+    top: .8rem;
+    left: .4rem;
+    line-height: .1rem;
+}
+
+.mainBox .page2 .box3 {
+    text-align: right;
+    font-size: .55rem;
+    font-style: italic;
+    position: absolute;
+    bottom: .4rem;
+    right: .3em;
+    color: darkgreen;
+
+}
+
+.mainBox .page2 .box4 {
+    text-align: center;
+    font-size: .7rem;
+    color: darkgreen;
+    position: absolute;
+    top: 9rem;
+    left: 1.8rem;
+    font-style: italic;
+
+}
+
+.mainBox .page2 .box5 {
+    height: 3.5rem;
+    width: 2rem;
+}
+
+
+
+.mainBox .page2 .box6 img {
+    height: 4rem;
+    width: 4rem;
+    position: absolute;
+    bottom: 2.3rem;
+    left: 3.1rem;
+}
+
+.mainBox .page2 .box5 img {
+    height: 4rem;
+    width: 4rem;
+    position: absolute;
+    top: 1.9rem;
+    left: .3rem;
+}
+
+.mainBox .page2 .box7 {
+    text-align: center;
+    font-size: .7rem;
+    color: darkgreen;
+    position: absolute;
+    top: 6rem;
+    left: .5rem;
+    font-style: italic;
+
+}
+
+.mainBox .page3 .box8 {
+    text-align: center;
+
+    font-size: .5rem;
+    color: darkgreen;
+
+
+    width: 5.7rem;
+
+    text-indent: 2em;
+    position: absolute;
+    top: 5.5rem;
+    left: .7rem;
+    line-height: 1rem;
+
+
+
+}
+
+.mainBox .page3 {
+    background: url(image/8.jpg)no-repeat;
+    width: 100%;
+    height: 100%;
+    background-size: 7.5rem 13.5rem;
+}
+
+.mainBox .page3 .box9 img {
+    width: 3rem;
+    height: 3.5rem;
+    overflow: hidden;
+
+
+}
+
+.mainBox .page3 .box10 img {
+    width: 3rem;
+    height: 3.5rem;
+    overflow: hidden;
+    position: absolute;
+    top: 6.2rem;
+    left: 4.45rem;
+
+}
+
+.mainBox .page4 .box11 {
+    text-align: left;
+
+    font-size: .4rem;
+    color: darkgreen;
+
+
+    width: 5.7rem;
+
+    text-indent: 2em;
+    position: absolute;
+    top: .5rem;
+    left: .7rem;
+    line-height: 1rem;
+}
+
+.mainBox .page4 .box12 {
+    text-align: right;
+
+    font-size: .4rem;
+    color: darkgreen;
+
+
+    width: 5.7rem;
+    line-height: .2rem;
+    text-indent: 2em;
+    position: absolute;
+    bottom: .5rem;
+    right: .7rem;
+    line-height: 1.1rem;
+}
+
+.mainBox .page4 {
+    background: url(image/13.png)no-repeat;
+    background-size: 7.5rem 13.5rem;
+}
+
+.mainBox .page4 .box13 img {
+    width: 2.9rem;
+    height: 3.8rem;
+    position: absolute;
+    top: 4rem;
+    left: .4rem;
+}
+
+.mainBox .page4 .box7 {
+    box-sizing: border-box;
+    padding: 0;
+    font-size: 1rem;
+    color: darkred;
+    position: absolute;
+    top: 5rem;
+    right: 0rem;
+}
+
+.mainBox .page5 .box14 {
+    color: darkgreen;
+    font-size: 1rem;
+    text-align: left;
+    position: absolute;
+    top: 1rem;
+    left: .5rem;
+    font-style: italic;
+}
+
+.mainBox .page5 .box15 img {
+    width: 7.5rem;
+    height: 10.3rem;
+    position: absolute;
+    top: 3.2rem;
+}
+
+.mainBox .page5 .box16 {
+    background-color: lightgoldenrodyellow;
+    width: 7.5rem;
+    height: 3.2rem;
+}
+
+a:link {text-decoration: underline;
+    
+    color: darkgreen;
+}
+
+a:hover,
+a:visited {
+    text-decoration: underline;
+    padding-bottom: .3rem;
+}
